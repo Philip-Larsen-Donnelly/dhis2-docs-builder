@@ -1,4 +1,3 @@
-docs/*
 !docs/resources/
 !docs/index.md
 target/
